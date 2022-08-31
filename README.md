@@ -13,5 +13,6 @@
 #### Languages and Tools
 
 <p>
-  <code><img height="25" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/java-script.png?raw=true" alt="Javascript"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/java-script.png?raw=true" alt="Javascript"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/typescript.png?raw=true" alt="Javascript"></code>
 </p>
