@@ -18,4 +18,6 @@
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/react.png?raw=true" alt="React"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/nodejs.png?raw=true" alt="NodeJS"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/database.png?raw=true" alt="SQL"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/aws.png?raw=true" alt="AWS"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/google-cloud.png?raw=true" alt="Google Cloud"></code>
 </p>
