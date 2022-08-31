@@ -14,5 +14,8 @@
 
 <p>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/java-script.png?raw=true" alt="Javascript"></code>
-  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/typescript.png?raw=true" alt="Javascript"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/typescript.png?raw=true" alt="Typescript"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/react.png?raw=true" alt="React"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/nodejs.png?raw=true" alt="NodeJS"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/database.png?raw=true" alt="SQL"></code>
 </p>
