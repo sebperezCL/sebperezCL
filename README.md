@@ -15,9 +15,13 @@
 <p>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/java-script.png?raw=true" alt="Javascript"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/typescript.png?raw=true" alt="Typescript"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/html.png?raw=true" alt="HTML"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/css.png?raw=true" alt="CSS"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/react.png?raw=true" alt="React"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/nodejs.png?raw=true" alt="NodeJS"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/database.png?raw=true" alt="SQL"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/mongo.png?raw=true" alt="MongoDB"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/aws.jpg?raw=true" alt="AWS"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/google-cloud.png?raw=true" alt="Google Cloud"></code>
+  <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/linux.png?raw=true" alt="Linux"></code>
 </p>
