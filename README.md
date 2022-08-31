@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![sebperezCL's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebperezCL)]
+
+<h2 align="left">I'm <a href="https://www.linkedin.com/in/sebastianperezb6a2785/" target="_blank" rel="noopener noreferrer">Sebastián Pérez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+
 <!--
 **sebperezCL/sebperezCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
