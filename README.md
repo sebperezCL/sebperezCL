@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working at [Globant](https://www.globant.com)
 - 👯 I’m also collaborating in [Phi](https://phi.tausistemas.cl), a SaaS solution to manage bookstores (including e-commerce integration)
-- ⭐ 2022's Objective: Improve my coding skills and learn GO <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" width="30">
+- ⭐ 2023's Objective: Improve my coding skills and learn GO <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" width="30">
 - ⚡ I love programming, engineering and books
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sebastianperezb6a2785/)
 
