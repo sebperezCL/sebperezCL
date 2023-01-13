@@ -2,7 +2,7 @@
   
 <a href="https://github.com/sebperezCL"><img align='right' src='https://github.com/sebperezCL/sebperezCL/blob/master/images/octocat.png?raw=true' width='250"'></a></h2>
 
-- 🎓 I'm a Computer Engineer from Chile
+- 🎓 I'm a Computer Engineer from Chile living in Barcelona
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working at [Veriff](https://www.veriff.com/) as Fullstack Engineer
 - 👯 I’m also collaborating in [Phi](https://phi.tausistemas.cl), a SaaS solution to manage bookstores (including e-commerce integration)
