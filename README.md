@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sebastianperezb6a2785/" target="_blank" rel="noopener noreferrer">Sebastián Pérez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sebastianperezb6a2785/" target="_blank" rel="noopener noreferrer">Sebastián Pérez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
   
 - 🎓 I'm a Computer Engineer from Chile living in Barcelona
 - 😄 Pronouns: He/Him
@@ -22,4 +22,8 @@
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/aws.jpg?raw=true" alt="AWS"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/google-cloud.png?raw=true" alt="Google Cloud"></code>
   <code><img height="35" src="https://github.com/sebperezCL/sebperezCL/blob/master/images/linux.png?raw=true" alt="Linux"></code>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats-sebperezcl.vercel.app/api?username=sebperezCL&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sebastian's github stats" /> | <img align="center" src="https://github-readme-stats-sebperezcl.vercel.app/api/top-langs/?username=sebperezCL&layout=compact&theme=buefy&hide_border=true" />
 </p>
