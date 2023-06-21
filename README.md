@@ -1,7 +1,5 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sebastianperezb6a2785/" target="_blank" rel="noopener noreferrer">Sebastián Pérez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
   
-<a href="https://github.com/sebperezCL"><img align='right' src='https://github.com/sebperezCL/sebperezCL/blob/master/images/octocat.png?raw=true' width='250"'></a></h2>
-
 - 🎓 I'm a Computer Engineer from Chile living in Barcelona
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working at [Veriff](https://www.veriff.com/) as Fullstack Engineer
