@@ -1,7 +1,7 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sebastianperezb6a2785/" target="_blank" rel="noopener noreferrer">Sebastián Pérez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
   
 - 🎓 I'm a Computer Engineer from Chile living in Barcelona
-- 💻 I’m currently working at [Veriff](https://www.veriff.com/) as Fullstack Engineer
+- 💻 I’m currently working at [Veriff](https://www.veriff.com/) as Senior Fullstack Engineer
 - 👯 I’m also collaborating in [Phi](https://phi.tausistemas.cl), a SaaS solution to manage bookstores (including e-commerce integration)
 - ⚡ I love programming, engineering and books
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sebastianperezb6a2785/)
